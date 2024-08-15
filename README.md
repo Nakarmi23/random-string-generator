@@ -6,12 +6,10 @@ The `stringGenerator` function is a simple and flexible utility that generates a
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Features](#features)
+1. [Features](#features)
+2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Methods](#methods)
-   - [Static Methods](#static-methods)
-   - [Instance Methods](#instance-methods)
+4. [API Reference](#api-reference)
 
 ## Features
 

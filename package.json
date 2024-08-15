@@ -1,7 +1,7 @@
 {
   "name": "@nakarmi23/random-string-generator",
   "version": "1.0.2",
-  "description": "",
+  "description": "The `stringGenerator` function is a simple and flexible utility that generates a random string based on specified character type options. You can control the length of the string and choose to include or exclude lowercase letters, uppercase letters, numbers, and symbols.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
