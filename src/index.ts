@@ -21,7 +21,7 @@ export const stringGenerator = (
     lowercase: 'abcdefghijklmnopqrsstuvwxyz',
     uppercase: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
     number: '0123456789',
-    symbol: '*;<>(){}#$?!^|@%&[]+-_=~`/:\\.',
+    symbol: '*;<>(){}#$?!^|@%&[]+-_=~/:..',
   };
 
   for (const optionKey in options) {
