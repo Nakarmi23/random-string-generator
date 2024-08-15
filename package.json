@@ -14,7 +14,8 @@
     "build": "tsup",
     "lint": "tsc",
     "test": "jest",
-    "changeset": "changeset"
+    "changeset": "changeset",
+    "release": "pnpm build && changeset publish"
   },
   "files": [
     "dist/**"
