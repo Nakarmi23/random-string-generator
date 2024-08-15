@@ -1,5 +1,11 @@
 # @nakarmi23/random-string-generator
 
+## 1.0.4
+
+### Patch Changes
+
+- 8106148: Fix README and package desc mistakes
+
 ## 1.0.3
 
 ### Patch Changes
