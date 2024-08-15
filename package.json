@@ -12,7 +12,9 @@
   },
   "scripts": {
     "build": "tsup",
-    "lint": "tsc"
+    "lint": "tsc",
+    "test": "jest",
+    "changeset": "changeset"
   },
   "files": [
     "dist/**"
@@ -32,8 +34,25 @@
     "secure"
   ],
   "author": "Ankit Nakarmi <ankit.nakarmi23@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/Nakarmi23/random-string-generator",
+  "bugs": {
+    "email": "ankit.nakarmi23@gmail.com",
+    "url": "https://github.com/Nakarmi23/random-string-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nakarmi23/random-string-generator.git"
+  },
+  "files": [
+    "dist/**"
+  ],
+  "packageManager": "pnpm@8.15.6",
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
+    "@changesets/cli": "^2.27.7",
     "@jest/globals": "^29.7.0",
     "@total-typescript/tsconfig": "^1.0.4",
     "@types/jest": "^29.5.12",
@@ -41,5 +60,8 @@
     "ts-jest": "^29.2.4",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "pnpm": "8.15.6"
   }
 }
