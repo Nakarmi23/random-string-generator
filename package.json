@@ -12,7 +12,8 @@
   },
   "scripts": {
     "build": "tsup",
-    "lint": "tsc"
+    "lint": "tsc",
+    "test": "jest"
   },
   "files": [
     "dist/**"
