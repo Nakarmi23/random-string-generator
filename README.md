@@ -1,4 +1,4 @@
-# Bikram Sambat
+# Random String generator
 
 ## Introduction
 
