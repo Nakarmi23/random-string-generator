@@ -1,5 +1,11 @@
 # @nakarmi23/random-string-generator
 
+## 1.0.2
+
+### Patch Changes
+
+- 66a3fcc: change package to public
+
 ## 1.0.1
 
 ### Patch Changes
