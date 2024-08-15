@@ -1,5 +1,11 @@
 # @nakarmi23/random-string-generator
 
+## 1.0.3
+
+### Patch Changes
+
+- 29c8362: Add description to package.json and reorder the table of contents in README.md file
+
 ## 1.0.2
 
 ### Patch Changes
