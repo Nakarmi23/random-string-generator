@@ -1,5 +1,11 @@
 # @nakarmi23/random-string-generator
 
+## 1.0.5
+
+### Patch Changes
+
+- 0f7e379: Remove pnpm as a dep
+
 ## 1.0.4
 
 ### Patch Changes
